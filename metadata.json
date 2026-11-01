@@ -1,0 +1,7 @@
+{
+  "name": "Stress Simulator: Five Lenses",
+  "description": "Stress-test any situation with escalating shocks through five Indian practitioner lenses: Judge, Advocate, Businessperson, Journalist, and Police.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
